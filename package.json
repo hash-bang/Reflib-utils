@@ -1,0 +1,33 @@
+{
+  "name": "reflib-utils",
+  "version": "1.0.0",
+  "description": "A set of utility functions for RefLib",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hash-bang/Reflib-utils.git"
+  },
+  "keywords": [
+    "reflib",
+    "utilities",
+    "references",
+    "citations",
+    "library"
+  ],
+  "author": "Matt Carter <m@ttcarter.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hash-bang/Reflib-utils/issues"
+  },
+  "homepage": "https://github.com/hash-bang/Reflib-utils#readme",
+  "dependencies": {
+    "doi-regex": "^0.1.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
+  }
+}
